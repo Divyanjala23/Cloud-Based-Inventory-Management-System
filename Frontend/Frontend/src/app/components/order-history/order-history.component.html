@@ -1,1 +1,23 @@
-<p>order-history works!</p>
+<div class="container">
+    <h2>Order History</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Order ID</th>
+          <th>Product</th>
+          <th>Quantity</th>
+          <th>Order Date</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let order of orders">
+          <td>{{ order.id }}</td>
+          <td>{{ order.productId }}</td>
+          <td>{{ order.quantity }}</td>
+          <td>{{ order.orderDate | date }}</td>
+          <td>{{ order.status }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
