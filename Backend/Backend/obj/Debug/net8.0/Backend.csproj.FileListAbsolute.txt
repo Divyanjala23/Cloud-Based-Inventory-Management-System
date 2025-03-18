@@ -167,3 +167,4 @@ D:\projkl\inventry management system\Cloud-Based-Inventory-Management-System\Bac
 D:\projkl\inventry management system\Cloud-Based-Inventory-Management-System\Backend\Backend\obj\Debug\net8.0\Backend.pdb
 D:\projkl\inventry management system\Cloud-Based-Inventory-Management-System\Backend\Backend\obj\Debug\net8.0\Backend.genruntimeconfig.cache
 D:\projkl\inventry management system\Cloud-Based-Inventory-Management-System\Backend\Backend\obj\Debug\net8.0\ref\Backend.dll
+D:\projkl\inventry management system\Cloud-Based-Inventory-Management-System\Backend\Backend\obj\Debug\net8.0\Backend.sourcelink.json
